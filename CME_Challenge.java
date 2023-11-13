@@ -38,9 +38,9 @@ public class CME_Challenge {
 			// external file if I had known how too
 		} else {
 			System.out.println("Invalid input. Please make sure to avoid spaces and numbers."); // I'm aware I wasn't
-																								// able to negate the
-																								// numbers, I wasn't
-																								// sure how to do this
+													    // able to negate the
+													    // numbers, I wasn't
+													    // sure how to do this
 		}
 		scanner.close();
 	}
